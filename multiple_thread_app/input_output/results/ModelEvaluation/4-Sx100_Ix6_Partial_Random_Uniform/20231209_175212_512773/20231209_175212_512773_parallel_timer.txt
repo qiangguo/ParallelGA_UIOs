@@ -1,0 +1,21 @@
+-----------------------------------------------------------------
+  >> Constructing multiple UIOs using Genetic Algorithms <<
+-----------------------------------------------------------------
+    [.] Number of CPUs:             12
+    [.] Threads per CPU:            5
+    [.] Number of States:           100
+        Number of Transitions:      500
+        Input Size:                 6
+        Max UIO Length:             15
+    [.] GA Population Size:         100
+    [.] GA Generation:              50
+       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    [-] Simulation is started!
+    [-] It will take a while. Please be patient ...
+
+         ... working in progress ...
+
+    [*] Simulation is completed.
+    [*] It takes total 64609.3773321729 seconds
+        to complete the work
+-----------------------------------------------------------------
